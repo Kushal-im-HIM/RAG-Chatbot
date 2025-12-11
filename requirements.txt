@@ -19,3 +19,5 @@ sentence-transformers # Required for running embeddings locally
 # --- Interface & Utils ---
 streamlit
 python-dotenv
+
+duckduckgo-search
