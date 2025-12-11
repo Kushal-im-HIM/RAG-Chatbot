@@ -4,6 +4,11 @@
 
 Unlike standard LLMs that may hallucinate or provide outdated syntax, MDN DevBot retrieves the specific documentation chunks relevant to the user's query before generating an answer, ensuring high technical accuracy.
 
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://rag-chatbot-aykxrsszprntko9ad6tasu.streamlit.app/)
+
+**Check out the Live Demo here:** [rag-chatbot.streamlit.app](https://rag-chatbot-aykxrsszprntko9ad6tasu.streamlit.app/)
+
 ---
 
 ## 🚀 Key Features
