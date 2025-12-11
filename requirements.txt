@@ -5,7 +5,7 @@ langchain-core
 langchain-groq
 langchain-pinecone
 langchain-huggingface
-pinecone-client>=3.0.0
+pinecone-client==3.2.2
 python-dotenv
 sentence-transformers
 PyGithub
