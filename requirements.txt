@@ -1,23 +1,13 @@
-# --- Core Framework ---
+streamlit
 langchain
 langchain-community
 langchain-core
-
-# --- LLM & Database Integrations ---
 langchain-groq
 langchain-pinecone
-pinecone-client
 langchain-huggingface
-
-# --- Data Loading Specifics ---
-PyGithub            # Required for loading data from MDN GitHub
-tiktoken            # Required for token counting/splitting
-
-# --- AI Model Backends ---
-sentence-transformers # Required for running embeddings locally
-
-# --- Interface & Utils ---
-streamlit
+pinecone-client>=3.0.0
 python-dotenv
-
+sentence-transformers
+PyGithub
+tiktoken
 duckduckgo-search
